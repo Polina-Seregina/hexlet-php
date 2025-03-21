@@ -1,0 +1,15 @@
+{
+    "name": "polinaseregina/hexlet-php",
+    "autoload": {
+        "psr-4": {
+            "Polinaseregina\\HexletPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Polina Seregina",
+            "email": "p.seregina2015@yandex.ru"
+        }
+    ],
+    "require": {}
+}
